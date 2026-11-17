@@ -12,6 +12,7 @@
     <modules>
         <module>lecagy</module>
         <module>nuevo</module>
+        <module>nuevo-folia</module>
     </modules>
 
     <properties>

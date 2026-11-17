@@ -1,0 +1,7 @@
+name: Plcmd
+main: MainClass
+version: '${project.version}'
+api-version: 1.20
+folia-supported: true
+author: XinYueNeko
+description: PocketMine SmartSign plugin ported to Folia
