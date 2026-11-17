@@ -11,6 +11,7 @@
 
     <modules>
         <module>lecagy</module>
+        <module>nuevo</module>
     </modules>
 
     <properties>
