@@ -1,0 +1,7 @@
+name: Plcmd
+main: MainClass
+version: '${project.version}'
+api-version: 1.13
+
+author: XinYueNeko
+description: PLCMD插件移植Bukkit
