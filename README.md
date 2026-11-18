@@ -3,6 +3,9 @@
 一款从`PocketMine`移植的`命令木牌`插件
 
 ### 如何编译:
+
+> 不要问为什么没有**Gradle**
+
 ```bash
 mvn clean package
 ```
