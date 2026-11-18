@@ -1,0 +1,6 @@
+name: Plcmd
+main: MainClass
+version: '${project.version}'
+
+author: XinYueNeko
+description: PocketMine SmartSign plugin ported to Bukkit (1.4.2+)

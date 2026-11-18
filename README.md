@@ -13,11 +13,13 @@ mvnd clean package
 
 ### 版本区别
 
+`classic` 为扁平化更新前的版本制作的 (1.4后, 1.12.2前)
+
 `legacy` 为1.13+准备的版本
 
 `nuevo` 为1.20+的**bukkit**适配的版本
 
-``nuevo-folia`` 专门针对**Folia**谱系准备的版本
+`nuevo-folia` 专门针对**Folia**谱系准备的版本
 
 ### 如何使用
 
