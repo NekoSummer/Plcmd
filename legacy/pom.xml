@@ -9,7 +9,7 @@
         <version>dev</version>
     </parent>
 
-    <artifactId>plcmd-lecagy</artifactId>
+    <artifactId>plcmd-legacy</artifactId>
     <version>1.0.0</version>
 
     <properties>
