@@ -87,7 +87,7 @@ public class MainClass extends JavaPlugin implements Listener {
         if (cmdEvent.isCancelled()) return;
 
         String finalCmd = cmdEvent.getMessage();
-        if (finalCmd.startsWith("/")) finalCmd =finalCmd.substring(1);
+        if (finalCmd.startsWith("/")) finalCmd = finalCmd.substring(1);
 
         player.performCommand(finalCmd);
     }
